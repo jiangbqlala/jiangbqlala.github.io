@@ -1,0 +1,7 @@
+body {
+      background: url(D:\blog10\themes\butterfly\source\img);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: 50% 50%;
+}
