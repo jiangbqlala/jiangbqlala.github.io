@@ -1,5 +1,5 @@
 body {
-      background: url(D:\blog10\themes\butterfly\source\img);
+      background: url(images/background.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
